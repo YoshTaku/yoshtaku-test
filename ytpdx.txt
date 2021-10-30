@@ -1,1 +1,3 @@
-RELOAD PLEASE
+-PLEASE RERUN THE PROGRAM!-
+An error was encountered. Do not worry, this applied to everybody.
+The error should be fixed now. Thank you.
