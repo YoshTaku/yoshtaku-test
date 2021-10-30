@@ -1,1 +1,3 @@
 https://github.com/YoshTaku/ytpdx-autoupdater/raw/main/download.txt
+https://github.com/YoshTaku/ytpdx-autoupdater/blob/main/version.txt
+https://github.com/YoshTaku/ytpdx-autoupdater/raw/main/ytpdx.txt
